@@ -1,0 +1,19 @@
+[{"classId":"cl1", "className":"Swimming Class", "coachName":"Anne", "classType":"Kids Pool", "classTiming":"09:00 - 09:30 AM", "classColorCode":"0XFF2CABE2", "signInUserId":["1","4","5"], "classImage":"https://media.istockphoto.com/photos/female-coach-in-water-giving-group-of-children-swimming-lesson-in-picture-id1167733673?b=1&k=6&m=1167733673&s=170667a&w=0&h=rcvkW7GpG1BOoKy6OBvWiPzU3msPVdR62mtdZi-SAyE="},
+
+
+{"classId":"cl2", "className":"Martial Arts", "coachName":"Sherina", "classType":"Kids Gym", "classTiming":"09:30 - 10:30 AM", "classColorCode":"0XFFE22C2C", "signInUserId":["2","3"], "classImage":"https://media.istockphoto.com/photos/man-jumping-to-practice-marcial-arts-kick-picture-id528499521?b=1&k=6&m=528499521&s=170667a&w=0&h=S4HqvHqGwKEnxNQvr-D5MKOa0Se3ZgdmSUjt4okPX8c="},
+
+{"classId":"cl3", "className":"Dance Class", "coachName":"Anne", "classType":"Kids Dance Hall", "classTiming":"10:00 - 10:30 AM", "classColorCode":"0XFFFFA200", "signInUserId":[], "classImage":"https://media.istockphoto.com/photos/diverse-young-students-in-dance-class-picture-id953708814?b=1&k=6&m=953708814&s=170667a&w=0&h=SNh1Pi7B2dNUKWK-bEwQuLe5jPUnlrQdiJyRoHzHRx0="
+},
+ {"classId":"cl4", "className":"Kids Fitness Class", "coachName":"Bianca", "classType":"Kids Gym", "classTiming":"11:00 - 11:45 AM", "classColorCode":"0XFF009206", "signInUserId":[], "classImage":"https://media.istockphoto.com/photos/pretty-young-girl-in-sportswear-watching-online-video-on-laptop-and-picture-id1214104007?b=1&k=6&m=1214104007&s=170667a&w=0&h=-zZJh9PXqCiG8IjUoCKtZmY02voVfuB19l5KN3dDr74="},
+
+ {"classId":"cl4", "className":"Kids Art Class", "coachName":"Bianca", "classType":"Kids Gym", "classTiming":"11:00 - 11:45 AM", "classColorCode":"0XFF009206", "signInUserId":[], "classImage":"https://cdn.pixabay.com/photo/2019/05/12/16/51/painting-class-4198482__340.jpg"}
+ ,{"classId":"cl5", "className":"Kids Art Class", "coachName":"Bianca", "classType":"Kids Gym", "classTiming":"11:00 - 11:45 AM", "classColorCode":"0XFF009206", "signInUserId":[], "classImage":"https://cdn.pixabay.com/photo/2019/05/12/16/51/painting-class-4198482__340.jpg"}
+, {"classId":"cl4", "className":"Kids Art Class", "coachName":"Bianca", "classType":"Kids Gym", "classTiming":"11:00 - 11:45 AM", "classColorCode":"0XFF009206", "signInUserId":[], "classImage":"https://cdn.pixabay.com/photo/2019/05/12/16/51/painting-class-4198482__340.jpg"},
+    {"classId":"cl4", "className":"Kids Art Class", "coachName":"Bianca", "classType":"Kids Gym", "classTiming":"11:00 - 11:45 AM", "classColorCode":"0XFF009206", "signInUserId":[], "classImage":"https://cdn.pixabay.com/photo/2019/05/12/16/51/painting-class-4198482__340.jpg"},
+        {"classId":"cl4", "className":"Kids Art Class", "coachName":"Bianca", "classType":"Kids Gym", "classTiming":"11:00 - 11:45 AM", "classColorCode":"0XFF009206", "signInUserId":[], "classImage":"https://cdn.pixabay.com/photo/2019/05/12/16/51/painting-class-4198482__340.jpg"},
+            {"classId":"cl4", "className":"Kids Art Class", "coachName":"Bianca", "classType":"Kids Gym", "classTiming":"11:00 - 11:45 AM", "classColorCode":"0XFF009206", "signInUserId":[], "classImage":"https://cdn.pixabay.com/photo/2019/05/12/16/51/painting-class-4198482__340.jpg"},
+                {"classId":"cl4", "className":"Kids Art Class", "coachName":"Bianca", "classType":"Kids Gym", "classTiming":"11:00 - 11:45 AM", "classColorCode":"0XFF009206", "signInUserId":[], "classImage":"https://cdn.pixabay.com/photo/2019/05/12/16/51/painting-class-4198482__340.jpg"}
+
+]
+
